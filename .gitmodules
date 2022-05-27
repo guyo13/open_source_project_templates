@@ -1,0 +1,6 @@
+[submodule "templates/mit"]
+	path = templates/mit
+	url = https://github.com/guyo13/mit_template.git
+[submodule "templates/apache2"]
+	path = templates/apache2
+	url = https://github.com/guyo13/apache2_template.git
